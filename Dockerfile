@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM phusion/baseimage:latest
 
 MAINTAINER Mark Stillwell <mark@stillwell.me>
 
